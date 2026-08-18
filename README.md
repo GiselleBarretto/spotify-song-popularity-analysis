@@ -12,6 +12,16 @@ The goal was not to predict popularity, but to identify patterns and understand 
 
 ---
 
+## Dataset
+
+The dataset used for this project was obtained from Kaggle:
+
+Spotify Tracks Dataset by Yamac Eren Ay
+
+Due to file size limitations, the raw dataset is not included in this repository.
+
+---
+
 ## Tools Used
 
 - Python
